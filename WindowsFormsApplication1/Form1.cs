@@ -39,5 +39,10 @@ namespace WindowsFormsApplication1
 
             MessageBox.Show("");
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            this.button1.Text = "t1111";
+        }
     }
 }
