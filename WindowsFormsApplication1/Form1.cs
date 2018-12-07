@@ -19,11 +19,19 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            this.button1.Text = "1111";
+            this.button1.Text = "2222";
+            this.button1.Text = "3333";
+            this.button1.Text = "4444";
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
 
+            this.button2.Text = "5555";
+            this.button2.Text = "6666";
+            this.button2.Text = "7777";
+            this.button2.Text = "8888";
         }
 
         private void button3_Click(object sender, EventArgs e)
