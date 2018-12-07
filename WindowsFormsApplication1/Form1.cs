@@ -19,6 +19,10 @@ namespace WindowsFormsApplication1
 
         private void button1_Click(object sender, EventArgs e)
         {
+            this.button10.Text = "aaaa";
+            this.button10.Text = "bbbb";
+            this.button10.Text = "cccc";
+            this.button10.Text = "dddd";
             this.button1.Text = "1111";
             this.button1.Text = "2222";
             this.button1.Text = "3333";
@@ -27,6 +31,10 @@ namespace WindowsFormsApplication1
 
         private void button2_Click(object sender, EventArgs e)
         {
+            this.button5.Text = "eeee";
+            this.button10.Text = "fff";
+            this.button10.Text = "hhhh";
+            this.button10.Text = "jjjj";
 
             this.button2.Text = "5555";
             this.button2.Text = "6666";
